@@ -24,13 +24,13 @@ Supports standard chess rules, including **check, checkmate, and stalemate**, wi
    git clone <repo_url>
    cd ChessGame
 
-##Compile the project:
+## Compile the project:
 g++ -std=c++17 src/*.cpp -o ChessGame -lsfml-graphics -lsfml-window -lsfml-system
 
-##Run the game:
+## Run the game:
 ./ChessGame
 
-##Project Structure
+## Project Structure
 ChessGame/
 │── src/          # Source code files
 │── include/      # Header files
