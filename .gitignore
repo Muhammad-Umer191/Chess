@@ -1,0 +1,37 @@
+# Build files
+/build/
+/bin/
+/obj/
+/Debug/
+/Release/
+
+# VS Code settings
+.vscode/
+
+# Mac OS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.log
+
+# CMake files (if using CMake)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# SFML generated files
+*.out
+*.o
+*.a
+*.lib
+
+# Backup and temp files
+*~
+*.swp
+*.tmp

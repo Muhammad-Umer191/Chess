@@ -1,0 +1,15 @@
+DOCUMENTATION  ABOUT  HOW   TO  PLAY  THE  GAME:
+
+MENU:
+Our menu contains two button one start button and one exit button ,to start the game move to the start button by the up down key of keyboard and press Enter button.
+
+GAME  WINDOW'S DESCRIPTION:
+--> The game will start when you selected the start button .
+--> From now onwards all movements are with mouse button .
+--> To select a piece move the cursor on the piece and right click on that piece or touch the trackpad with two fingers.
+--> Now move the cursor to the position you want to place the piece (NOTE: position should be valid movement to move the cursor otherwise it will not move)
+
+NOTE: First move is always of the white piece if you try to move black piece it would not work
+
+--> All the pieces will move in same order .
+--> Once, the king of any color is overcome by anyother piece the opposite color will win.
